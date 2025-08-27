@@ -108,6 +108,9 @@ Riverbend Gazette is transitioning from a traditional print newspaper to a digit
 
 ## Sitemap
 
+![Riverbend Gazette Website Sitemap](sitemap.jpeg)
+
+### Website Structure
 ```
 Homepage (index.html)
 ├── About Us (about.html)
