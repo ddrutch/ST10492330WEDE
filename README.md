@@ -3,7 +3,6 @@
 ## Student Information
 - **Student Name:** Brandon Kanyoka
 - **Student Number:** ST10492330
-- **Course:** Web Development
 - **Institution:** Rosebank College
 - **Submission Date:** August 27, 2025
 
@@ -61,22 +60,22 @@ Riverbend Gazette is transitioning from a traditional print newspaper to a digit
 
 ## Timeline and Milestones
 
-### Week 1: Discovery and Planning ✅
+### Week 1: Discovery and Planning 
 - Project scope finalization
 - Content structure definition
 - Research competitor analysis
 
-### Weeks 2-3: Design and Wireframing ✅
+### Weeks 2-3: Design and Wireframing 
 - Visual identity development (color palette, typography)
 - Low-fidelity wireframes creation
 - Content organization planning
 
-### Weeks 4-6: Core Development ✅
+### Weeks 4-6: Core Development 
 - HTML structure implementation
 - Semantic element integration
 - Content management system preparation
 
-### Week 7: Content Integration ✅
+### Week 7: Content Integration 
 - Article content development
 - Form functionality implementation
 - Navigation system completion
@@ -175,28 +174,32 @@ riverbend-gazette/
 
 ## References
 
-1. **Tshwane Bulletin.** (2025). Community News and Local Events. Retrieved from https://www.tshwanebulletin.co.za/
+Digital News Report (2018) *The Digital Transition of Local News*. Available at: https://www.digitalnewsreport.org/publications/2018/digital-transition-local-news/ (Accessed: 27 August 2025).
 
-2. **Unsplash.** (2025). High-quality photography for web projects. Retrieved from https://unsplash.com/
+Mozilla Developer Network (2025) *HTML Forms and Input Validation*. Available at: https://developer.mozilla.org/ (Accessed: 27 August 2025).
 
-3. **South African Press Association.** (2025). Local Journalism Standards and Best Practices.
+South African Press Association (2025) *Local Journalism Standards and Best Practices*. Johannesburg: SAPA.
 
-4. **W3C Web Accessibility Initiative.** (2025). HTML5 Semantic Elements Guidelines. Retrieved from https://www.w3.org/WAI/
+Tshwane Bulletin (2025) *Community News and Local Events*. Available at: https://www.tshwanebulletin.co.za/ (Accessed: 27 August 2025).
 
-5. **Mozilla Developer Network.** (2025). HTML Forms and Input Validation. Retrieved from https://developer.mozilla.org/
+Unsplash (2025a) *Community Center Image*. Available at: https://unsplash.com/photos/a-wooden-post-with-a-sign-on-it-3RIwaV-IK8I (Accessed: 27 August 2025).
 
-6. **Digital News Report.** (2018). The Digital Transition of Local News. Retrieved from https://www.digitalnewsreport.org/publications/2018/digital-transition-local-news/
+Unsplash (2025b) *Laboratory Science Fair Image*. Available at: https://unsplash.com/photos/person-holding-laboratory-flasks-H9t723yPjYI (Accessed: 27 August 2025).
+
+Unsplash (2025c) *School Science Project Image*. Available at: https://unsplash.com/photos/boy-in-white-long-sleeve-shirt-holding-red-and-clear-plastic-tool-CgIFBwOkApI (Accessed: 27 August 2025).
+
+W3C Web Accessibility Initiative (2025) *HTML5 Semantic Elements Guidelines*. Available at: https://www.w3.org/WAI/ (Accessed: 27 August 2025).
 
 ---
 
 ## Project Status
 
-- ✅ **Project Proposal:** Complete
-- ✅ **Content Research:** Complete (documented in project files)
-- ✅ **HTML Development:** Complete (7 pages with full content)
-- ✅ **Testing:** Code validated, cross-browser compatible
-- 🔄 **GitHub Integration:** In progress
-- ⏳ **Final Submission:** Ready for deployment
+-  **Project Proposal:** Complete
+-  **Content Research:** Complete (documented in project files)
+-  **HTML Development:** Complete (7 pages with full content)
+-  **Testing:** Code validated, cross-browser compatible
+-  **GitHub Integration:** In progress
+-  **Final Submission:** Ready for deployment
 
 ---
 
@@ -209,4 +212,3 @@ For questions about this project:
 
 ---
 
-*This project demonstrates foundational web development skills appropriate for first-month web development coursework, focusing on HTML structure, semantic elements, and professional content development.*
