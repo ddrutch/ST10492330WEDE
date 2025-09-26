@@ -231,7 +231,7 @@ The website has been tested across multiple devices and screen sizes using brows
 **Figure 3:** Mobile view of an article page captured on Samsung Galaxy S25 Ultra (Kanyoka, 2025)
 ![Mobile View](PhoneEvidence.png)
 
-**Figure 4:** Small mobile view of the about page captured on iPhone XR (Kanyoka, 2025)
+**Figure 4:** Small mobile view of the about page captured on iPhone SE (Kanyoka, 2025)
 ![Small Mobile View](SmallPhoneEvidence.png)
 
 These screenshots provide evidence of the responsive design implementation across desktop, tablet, and mobile devices, demonstrating proper layout adaptation and usability (Kanyoka, 2025).
@@ -278,7 +278,7 @@ Mozilla Developer Network (2025) *Responsive Images*. Available at: https://deve
 
 W3Schools (2025) *HTML Picture Element*. Available at: https://www.w3schools.com/html/html_images_picture.asp (Accessed: 25 September 2025).
 
-Kanyoka, B. (2025) *Riverbend Gazette Website Responsive Design Screenshots*. [Screenshots captured on desktop, iPad Air, Samsung Galaxy S25 Ultra, and iPhone XR].
+Kanyoka, B. (2025) *Riverbend Gazette Website Responsive Design Screenshots*. [Screenshots captured on desktop, iPad Air, Samsung Galaxy S25 Ultra, and iPhone SE].
 
 ---
 
