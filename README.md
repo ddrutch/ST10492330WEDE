@@ -170,19 +170,18 @@ riverbend-gazette/
 - Professional contact information and submission guidelines
 - Organizational history and mission statements
 
-### Version 1.1 - Part 2: CSS Styling and Responsive Design (September 25, 2025)
+### Version 1.1 - CSS Styling (September 25, 2025)
 #### Added
 - External CSS stylesheet (style.css) created and linked to all HTML pages
 - Comprehensive CSS reset for cross-browser consistency
 - Base styles including font family, color scheme, and margin/padding defaults
-- Typography styles with hierarchical font sizes and line heights
+- Typography styles with hierarchical font sizes using relative units (rem)
 - Layout structure using CSS Flexbox for header navigation and main content
 - Visual styling with colors, backgrounds, borders, and box shadows
 - Interactive pseudo-classes (:hover, :focus, :active) for enhanced user experience
-- Responsive design with media queries for mobile and tablet breakpoints
+- Tab-like styling for navigation links with backgrounds and borders
 
 #### Technical Improvements
-- Mobile-first responsive design ensuring usability across devices
 - Cascading CSS principles applied for efficient selector usage
 - Browser developer tools compatibility for debugging and optimization
 - Consistent styling across all 7 website pages
@@ -192,6 +191,56 @@ riverbend-gazette/
 - Implemented corrections and improvements to HTML structure as per lecturer feedback
 - Enhanced semantic elements and content organization
 - Refined navigation and form layouts for better user experience
+
+### Version 1.2 - Responsive Design Enhancements (September 25, 2025)
+#### Added
+- Responsive design with media queries for desktop (>1024px), tablet (768-1024px), and mobile (<768px) breakpoints
+- Responsive images implemented with srcset and sizes attributes for optimal loading
+- Relative units (rem) used for font sizes, spacing, and padding for scalability
+
+#### Technical Improvements
+- Mobile-first responsive design ensuring usability across devices
+- Multi-column layout on larger screens transitioning to single-column on mobile
+
+#### Responsive Design Features
+- Breakpoints: Desktop (default), Tablet (1024px), Mobile (768px), Small Mobile (480px)
+- Navigation menu adapts from horizontal to vertical on mobile devices
+- Content layout adjusts font sizes and spacing for different screen sizes
+- Images use responsive techniques with srcset for different pixel densities
+- Forms and interactive elements scale appropriately across devices
+
+---
+
+## Responsive Design Testing
+
+The website has been tested across multiple devices and screen sizes using browser developer tools. Below are the key breakpoints and layout adjustments:
+
+### Breakpoints and Layout Adjustments
+- **Desktop (>1024px):** Full horizontal navigation, multi-column content layout, standard font sizes
+- **Tablet (768px - 1024px):** Adjusted padding and font sizes for medium screens
+- **Mobile (480px - 768px):** Vertical navigation menu, single-column layout, reduced font sizes
+- **Small Mobile (<480px):** Further reduced spacing and typography for small screens
+
+### Screenshot Evidence
+**Figure 1:** Desktop view of the Riverbend Gazette homepage captured on standard desktop dimensions (Kanyoka, 2025)
+![Desktop View](DesktopEvidence.png)
+
+**Figure 2:** Tablet view of the contact page captured on iPad Air (Kanyoka, 2025)
+![Tablet View](TabletEvidence.png)
+
+**Figure 3:** Mobile view of an article page captured on Samsung Galaxy S25 Ultra (Kanyoka, 2025)
+![Mobile View](PhoneEvidence.png)
+
+**Figure 4:** Small mobile view of the about page captured on iPhone XR (Kanyoka, 2025)
+![Small Mobile View](SmallPhoneEvidence.png)
+
+These screenshots provide evidence of the responsive design implementation across desktop, tablet, and mobile devices, demonstrating proper layout adaptation and usability (Kanyoka, 2025).
+
+### Testing Methodology
+- Used Chrome DevTools device emulation for various screen sizes
+- Tested on actual devices including smartphones and tablets
+- Verified touch interactions and form usability on mobile
+- Ensured images load appropriately with srcset implementation
 
 ---
 
@@ -224,6 +273,12 @@ Mozilla Developer Network (2025) *CSS Pseudo-classes*. Available at: https://dev
 W3Schools (2025) *CSS Tutorial*. Available at: https://www.w3schools.com/css/ (Accessed: 25 September 2025).
 
 W3Schools (2025) *CSS Responsive Web Design*. Available at: https://www.w3schools.com/css/css_rwd_intro.asp (Accessed: 25 September 2025).
+
+Mozilla Developer Network (2025) *Responsive Images*. Available at: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images (Accessed: 25 September 2025).
+
+W3Schools (2025) *HTML Picture Element*. Available at: https://www.w3schools.com/html/html_images_picture.asp (Accessed: 25 September 2025).
+
+Kanyoka, B. (2025) *Riverbend Gazette Website Responsive Design Screenshots*. [Screenshots captured on desktop, iPad Air, Samsung Galaxy S25 Ultra, and iPhone XR].
 
 ---
 
